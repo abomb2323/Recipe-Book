@@ -7,5 +7,6 @@
 public class Main {
 	public static void main(String[] args){
 		System.out.println("Emily, if you see this, you're golden!");
+		System.out.println("Adding another line of code because I can");
 	}
 }
